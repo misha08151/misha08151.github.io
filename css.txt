@@ -9,18 +9,6 @@
   --white: rgba(255, 255, 255, 1);
 }
 
-button {
-	width: auto;
-    position:-webkit-sticky;
-	
-	border-color: rgba(208, 208, 208, 1);
-    text-align: justify;
-	font-family:Poppins;
-	text-align:center;
-	font-size:24px;
-
-
-}
 .frame-167{
     background-size: 100% auto; /* width and height, can be %, px or whatever. */
 }.frame-22 {
